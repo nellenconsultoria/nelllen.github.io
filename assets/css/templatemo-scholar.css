@@ -686,6 +686,14 @@ Banner Style
   background-image: url(../images/banner-item-03.jpg);
 }
 
+.main-banner .item-4 {
+  background-image: url(../images/banner-item-04.jpg);
+}
+
+.main-banner .item-5 {
+  background-image: url(../images/banner-item-05.jpg);
+}
+
 .main-banner .item {
   background-repeat: no-repeat;
   background-position: center center;
